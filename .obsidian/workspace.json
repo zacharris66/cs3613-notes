@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "42275b563126864c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b037142c0087e1ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "044a98acc54fab86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorials/Install Python Dependencies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Install Python Dependencies"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5f32913a6e34203",
+    "type": "split",
+    "children": [
+      {
+        "id": "197c3d02eabd2c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8370187904ff69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "085500caeae8337f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6387edca9ed14bfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a28a7e97930ddfd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "baf9a662de8c8382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb483b7157ef2d2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assignments/01. Student's First Django App.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01. Student's First Django App"
+            }
+          },
+          {
+            "id": "e822cd01dec9a975",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Assignments/01. Student's First Django App.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01. Student's First Django App"
+            }
+          },
+          {
+            "id": "9868161c753281c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3afe55649cd9d8f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assignments/01. Student's First Django App.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01. Student's First Django App"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "044a98acc54fab86",
+  "lastOpenFiles": [
+    "README.md",
+    "Assignments/01. Student's First Django App.md",
+    "http;/obsidian.md",
+    "http;",
+    "Tutorials/Install Python Dependencies.md",
+    "Tutorials/Create and Launch Our First Django App.md",
+    "Z. Media/Pasted image 20250116213208.png",
+    "Tutorials/Google Cloud Virtual Server Creation.md",
+    "Tutorials/Google Cloud Firewall Configuration.md",
+    "Notes/APT Package Manager - A Guide to Managing Software on Debian-Based Systems.md",
+    "Notes/Linux - An Overview of the Operating System and Its Flavors.md",
+    "Notes/Ubuntu Server Management - Essential Tools and Tasks.md",
+    "Notes/Cloud Computing - Transforming Modern Technology.md",
+    "Notes/Firewalls - A Vital Security Layer in Cloud Computing.md",
+    "Notes/Cloud Virtual Machines - A Foundation for Modern Computing.md",
+    "Y. Descriptive Notes",
+    "Tutorials",
+    "Z. Media",
+    "Assignments"
+  ]
+}

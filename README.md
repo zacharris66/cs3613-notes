@@ -1,0 +1,1 @@
+This is an Obsidian repository. It will be best viewed using the Obsidian Application[obsidian.md](http://obsidian.md). 
