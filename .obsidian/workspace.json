@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/Install Python Dependencies.md",
+                "file": "Tutorials/Install VS Code Server with Tunnel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install Python Dependencies"
+              "title": "Install VS Code Server with Tunnel"
             }
           }
         ]
@@ -160,16 +160,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "044a98acc54fab86",
   "lastOpenFiles": [
-    "README.md",
     "Assignments/01. Student's First Django App.md",
+    "Tutorials/Install VS Code Server with Tunnel.md",
+    "Tutorials/Install Python Dependencies.md",
+    "README.md",
     "http;/obsidian.md",
     "http;",
-    "Tutorials/Install Python Dependencies.md",
     "Tutorials/Create and Launch Our First Django App.md",
     "Z. Media/Pasted image 20250116213208.png",
     "Tutorials/Google Cloud Virtual Server Creation.md",
