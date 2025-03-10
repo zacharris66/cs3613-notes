@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/Create and Launch Our First Django App.md",
+                "file": "Assignments/03. Add Style and Frontend Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create and Launch Our First Django App"
+              "title": "03. Add Style and Frontend Components"
             }
           }
         ]
@@ -167,8 +167,8 @@
   },
   "active": "044a98acc54fab86",
   "lastOpenFiles": [
-    "Assignments/01. Student's First Django App.md",
     "Tutorials/Create and Launch Our First Django App.md",
+    "Assignments/01. Student's First Django App.md",
     "Assignments/02. Django Tutorial.md",
     "Tutorials/Install Python Dependencies.md",
     "Tutorials/Google Cloud Firewall Configuration.md",
