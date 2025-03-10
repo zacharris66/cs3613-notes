@@ -57,6 +57,24 @@ You may need to hit `q` after looking at status to return to the command prompt.
 	1. Click the Remote Connection Icon in the lower left.
 	2. Click `Connect to Tunnel`
 	3. Select the box you have selected.
+## Enable SWAP on VM
+1. Create a file system file for your swap file:
+```bash
+sudo fallocate -l 4G /swapfile
+```
+3. Set the permissions of the swap file:
+```bash
+sudo chmod 600 /swapfile
+```
+4. Mark the file as swap to the operating system:
+```bash
+sudo mkswap /swapfile
+sudo swapon /swapfile
+```
+5. Add the swap file to your fstab in order to ensure these changes carry forward after reboot:
+```bash
+echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
+```
 ## Ensure Our Service After Reboot
 1. Return to your CLI window and execute the command:
 ```bash

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/Install VS Code Server with Tunnel.md",
+                "file": "Tutorials/Create and Launch Our First Django App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install VS Code Server with Tunnel"
+              "title": "Create and Launch Our First Django App"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -166,21 +167,22 @@
   },
   "active": "044a98acc54fab86",
   "lastOpenFiles": [
-    "http;/obsidian.md",
-    "Tutorials/Install VS Code Server with Tunnel.md",
     "Assignments/01. Student's First Django App.md",
-    "Tutorials/Install Python Dependencies.md",
-    "README.md",
-    "http;",
     "Tutorials/Create and Launch Our First Django App.md",
-    "Z. Media/Pasted image 20250116213208.png",
-    "Tutorials/Google Cloud Virtual Server Creation.md",
+    "Assignments/02. Django Tutorial.md",
+    "Tutorials/Install Python Dependencies.md",
     "Tutorials/Google Cloud Firewall Configuration.md",
-    "Notes/APT Package Manager - A Guide to Managing Software on Debian-Based Systems.md",
-    "Notes/Linux - An Overview of the Operating System and Its Flavors.md",
+    "Notes/Firewalls - A Vital Security Layer in Cloud Computing.md",
     "Notes/Ubuntu Server Management - Essential Tools and Tasks.md",
     "Notes/Cloud Computing - Transforming Modern Technology.md",
-    "Notes/Firewalls - A Vital Security Layer in Cloud Computing.md",
+    "Tutorials/Install VS Code Server with Tunnel.md",
+    "http;/obsidian.md",
+    "README.md",
+    "http;",
+    "Z. Media/Pasted image 20250116213208.png",
+    "Tutorials/Google Cloud Virtual Server Creation.md",
+    "Notes/APT Package Manager - A Guide to Managing Software on Debian-Based Systems.md",
+    "Notes/Linux - An Overview of the Operating System and Its Flavors.md",
     "Notes/Cloud Virtual Machines - A Foundation for Modern Computing.md",
     "Y. Descriptive Notes",
     "Tutorials",
